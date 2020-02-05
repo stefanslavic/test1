@@ -1,1 +1,1 @@
-This is my app
+<b>This is my app<b>
